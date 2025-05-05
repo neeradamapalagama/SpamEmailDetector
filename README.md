@@ -1,6 +1,6 @@
 # Spam Message Detector
 #### Video Demo:  https://youtu.be/qYL5iPkw74s
-#### Description:
+#### Description: Spam Message Detector is a command-line program designed to detect spam messages. This is my CS50P Final Project. CS50's Introduction to Programming with Python - Harvard University (This project was submitted on 12th January 2024.)
 
 ### Overview
 
